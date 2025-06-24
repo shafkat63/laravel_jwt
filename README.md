@@ -22,7 +22,7 @@ This project is a Laravel-based REST API starter with **JWT Authentication** usi
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourname/laravel-jwt-api.git
+git clone https://github.com/shafkat63/laravel_jwt
 cd laravel-jwt-api
 
 composer install
